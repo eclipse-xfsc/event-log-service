@@ -1,0 +1,5 @@
+apiVersion: v2
+appVersion: v1.0.0
+description: event-log-service deployment
+name: event-log-service
+version: 1.0.0
